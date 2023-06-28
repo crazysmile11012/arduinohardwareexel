@@ -1,4 +1,4 @@
-# my arduino hardware exelratour 
+# my arduino hardware task offloader
 use python proram to send computational commands via usb to arduino 
 run commands
 return to python script with value
